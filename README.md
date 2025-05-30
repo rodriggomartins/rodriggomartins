@@ -16,4 +16,4 @@ Hi, I'm Rodrigo Martins. I'm a technology enthusiast with a passion for software
 ### About My Work
 I'm currently working on developing scalable and efficient software systems using the above technologies.
 
-![Código](https://raw.githubusercontent.com/RodrigoMartins/README/master/code.png)
+
